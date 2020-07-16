@@ -1,0 +1,3 @@
+# app_measure
+Projeto feito para técnicos o usarem em campo para anotarem medidas e salvar suas localizações inicias e finais. Foi utilizado no projeto o Firebase para armazenamentos dos dados da lista e também das localizações. Não foi enviado o google-services.json, para utilização do projeto, sincronize o Firebase com o projeto baixado. || 
+Project for technical notation measure and save your initial and end location. Was used the Firebase for save the data of list and also the locations. The google-services.json don't send with project, for use the project, you need to generate a project with Firebase and sync with the project.

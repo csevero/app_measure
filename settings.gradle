@@ -1,0 +1,2 @@
+rootProject.name='teste_integracao_firebase'
+include ':app'

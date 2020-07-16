@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Projeto Eduardo</string>
+
+    <string name="main_count">Medida(%1$d)</string>
+    <string name="main_button_add">Nova medida</string>
+    <string name="main_button_finish">Concluir</string>
+
+    <string name="item_medida">%1$.2f m</string>
+
+    <string name="add_title">Adicionar Medida</string>
+    <string name="add_sub">Adicione a profundidade</string>
+    <string name="add_edit_measure">Digite a profundidade</string>
+
+    <string name="dialog_finish">Deseja finalizar \ne salvar os dados?</string>
+
+    <string name="success">Salvo com sucesso</string>
+    <string name="loc_denied">Permissão Negada</string>
+
+    <string name="info_title">Como usar?</string>
+    <string name="info_sub">Para que o aplicativo ofereça todas suas \n funcionalidades, aceite quando for\n solicitado a localização.\n\nPara começar adicione as medidas \nda profundidade e após marcar todas \nclique em concluir e finalizar.</string>
+</resources>
